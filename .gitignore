@@ -1,0 +1,8 @@
+# Manually ignored
+.project
+.settings/
+.classpath
+.idea
+*.iml
+**/*.iml
+target/
